@@ -11,4 +11,4 @@ def inversa(texto):
         if contador==len(texto):
             return inverso
 
-print(inversa("Hola Mundo"))
+#print(inversa("Hola Mundo"))
