@@ -18,6 +18,3 @@ def multip(*args):
 print(sum(1,2,3,4,5))
 print(multip(1,2,3,4,5))
 
-#Autor: Yimmy Eman
-
-

@@ -11,5 +11,3 @@ def longitud(*args):
     return "{} tiene {} elementos".format(args, contador)
 
 print(longitud(1,2,3))
-
-#Autor: Yimmy Eman

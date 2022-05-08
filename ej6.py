@@ -12,5 +12,3 @@ def inversa(texto):
             return inverso
 
 print(inversa("Hola Mundo"))
-
-#Autor: Yimmy Eman

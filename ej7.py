@@ -17,5 +17,3 @@ def es_palindromo(texto):
     return inversa(texto)==texto
     
 print(es_palindromo("radar"))
-
-#Autor: Yimmy Eman

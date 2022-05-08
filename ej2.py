@@ -16,5 +16,3 @@ def menor(*args):
 
 print(mayor(1,2,3,4,8))
 print(menor(1,2,3,4,8))
-
-#Autor: Yimmy Eman

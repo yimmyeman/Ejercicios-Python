@@ -13,5 +13,3 @@ def numero_maximo(a, b):
         return "EL numero mayor es {}".format(b)
 
 print(numero_maximo(2, 3))
-
-#Autor: Yimmy Eman
