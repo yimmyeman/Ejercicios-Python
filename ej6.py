@@ -9,8 +9,8 @@ def inversa(texto):
         inverso+=texto[-a]
         contador+=1
         if contador==len(texto):
-            print(inverso)
+            return inverso
 
-inversa("Hola Mundo")
+print(inversa("Hola Mundo"))
 
 #Autor: Yimmy Eman

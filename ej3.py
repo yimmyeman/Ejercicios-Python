@@ -8,8 +8,8 @@ def longitud(*args):
     contador=0
     for a in args:
         contador+=1
-    print("{} tiene {} elementos".format(args, contador))
+    return "{} tiene {} elementos".format(args, contador)
 
-longitud(1,2,3)
+print(longitud(1,2,3))
 
 #Autor: Yimmy Eman

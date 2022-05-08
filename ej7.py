@@ -14,8 +14,8 @@ def inversa(texto):
             return inverso
 
 def es_palindromo(texto):
-    print(inversa(texto)==texto)
+    return inversa(texto)==texto
     
-es_palindromo("radar")
+print(es_palindromo("radar"))
 
 #Autor: Yimmy Eman

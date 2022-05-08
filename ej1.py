@@ -6,12 +6,12 @@ buen ejercicio.
 
 def numero_maximo(a, b):
     if a>b:
-        print("EL numero mayor es {}".format(a))
+        return "EL numero mayor es {}".format(a)
     elif a==b:
-        print("{} y {} son iguales".format(a,b))
+        return "{} y {} son iguales".format(a,b)
     else:
-        print("EL numero mayor es {}".format(b))
+        return "EL numero mayor es {}".format(b)
 
-numero_maximo(2, 3)
+print(numero_maximo(2, 3))
 
 #Autor: Yimmy Eman
