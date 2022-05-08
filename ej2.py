@@ -45,3 +45,5 @@ def menor(*args):
 
 mayor(1,2,3,4,8)
 menor(1,2,3,4,8)
+
+#Autor: Yimmy Eman

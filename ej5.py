@@ -13,6 +13,6 @@ def operador(*args):
     print(producto)
 operador(1,2,3,4,5)
 
-
+#Autor: Yimmy Eman
 
 

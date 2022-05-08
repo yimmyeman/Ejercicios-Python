@@ -4,4 +4,5 @@ def vocal(caracter):
     vocales=["a","e","i","o","u"]
     print(caracter in vocales)
 vocal('b')
-    
+
+#Autor: Yimmy Eman

@@ -2,7 +2,15 @@
 Definir una función inversa() que calcule la inversión de una cadena. Por ejemplo la cadena "estoy probando" 
 debería devolver la cadena "odnaborp yotse"
 '''
-def invertir(texto):
+def inversa(texto):
+    inverso=""
+    contador=0
     for a in range(1,len(texto)+1):
-        print(texto[-a], end="")
-invertir("Hola Mundo")
+        inverso+=texto[-a]
+        contador+=1
+        if contador==len(texto):
+            print(inverso)
+
+inversa("Hola Mundo")
+
+#Autor: Yimmy Eman
