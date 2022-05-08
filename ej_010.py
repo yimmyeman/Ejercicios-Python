@@ -11,5 +11,3 @@ def procedimiento(lista):
         print("*"*a)
 
 procedimiento([4, 9, 7])
-    
-#Prueba
